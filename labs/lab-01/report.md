@@ -21,9 +21,16 @@ These criteria are necessary for free, open, and fair software development and u
 
 ### Smart Questions
 
+In Eric Raymond's article *Smart Questions* the author addresses how to properly find a source to answer your question and how to phrase your question properly so that it may be answered promptly.
+
+Upon further analysis, I found that there are a few additional methods for efficiently answering your own questions.
+
+1. Often times, when you pose a question you already have a partial or complete answer which you would like to either verify or expand upon. In these cases, it is import to explain your thought process and background throughly so that any potential answerers can provide an appropriate response.
+2. Opposite of the first case, when you have absolutely no clue how to address a problem it is often times not the best solution to simply pose the question "I have no idea how to do this. How do you do it?". This doesn't allow a potential responder to understand the source of your confusion. It would be better to explain your thought process throughly and pinpoint your specific area of confusion so that your answer can be properly addressed.
+
 ### Free Culture
 
-### Beautiful Code
+Chapter 3 of *Free Culture* describes a student at RPI, Jesse Jordan, who developed his own search engine in his free time. However, this seemingly innocent project devolved into serious legal accusations when the Recording Industry Association of America (RIAA) decided to sue Jesse. The lawsuit file by the RIAA asserted that Jesse's search engine was facilitating music piracy and that Jesse was required to pay $12,000 for the lawsuit to be dismissed. This forced Jesse's hand and rather than going to court and paying more than $12,000, Jessie decided to settle. This story is a great example of why the open source movement is a positive trend because it allows people to write and modify code without fear of legal trouble. In Jesse's case, the RIAA was acting like a proprietary software distrubutor whose sole good is profit. Entities like the RIAA, while necessary in some regard, can easily overstep their bounds and stifle technology advancement. By shifting more and more software projects to the open source scene, we are not only decreasing the fear of legal trouble for software developers but facilitating the advanced of technology by encouraging an exchanging of ideas.
 
 ## Linux
 
@@ -62,3 +69,7 @@ Tree Example Output:
 ![Cross 3](img/cross3.png)
 
 ![Cross 4](img/cross4.png)
+
+### Blockly Maze Challenge
+
+![Maze](img/blockly.png)
