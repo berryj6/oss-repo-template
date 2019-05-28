@@ -73,3 +73,10 @@ Tree Example Output:
 ### Blockly Maze Challenge
 
 ![Maze](img/blockly.png)
+
+### Reflection
+
+As a computer system engineering / computer science student, the [RISC V](https://riscv.org/) instruction set architecture (ISA) caught my eye. RISC V is a free and open ISA, as apposed to x86 and ARM which require a license to use, and is picking up steam in academics and industry. There are a host of open source projects related to RISC V which can be found [here](https://riscv.org/software-status/). I'm specifically interested in one of the RISC V simulators called [RARS](https://github.com/TheThirdOne/rars) and think it would be an interesting project to evaluate.
+
+**Lab Completion Process**  
+I did this lab by forking the [oss-repo-template](https://github.com/rcos/oss-repo-template) and then cloning the fork to my local machine. From there, I completed the assignments and typed up lab01.md using the [ReText](https://github.com/retext-project/retext) editor. Once completed, I pushed my local repo to my forked repo on github.
