@@ -21,6 +21,8 @@
 
 ![gitlearn](img/gitlearn.png)
 
+## Part 3
+
 **Pull Request:** [pull req](https://github.com/berryj6/PullReq)
 
 **Git Diff:**
@@ -28,6 +30,10 @@
 After modifying 'James Berry.md' git diff displays the following:
 
 ![diff](img/diff.png)
+
+After adding a tag to the repository:
+
+![tag](img/tag.png)
 
 **References Repo:** [references](https://github.com/berryj6/courseProject)
 
