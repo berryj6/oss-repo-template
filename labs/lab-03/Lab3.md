@@ -1,9 +1,43 @@
 # Lab 3
 
-## Part 0
-Wiki: [wiki](https://github.com/berryj6/oss-repo-template/wiki/Project-Interests)
-
 ## Part 1
+**Wiki:** [wiki](https://github.com/berryj6/oss-repo-template/wiki/Project-Interests)
+
+**Latex source:**
+
+```
+$$
+\sqrt{1 + 2\sqrt{1 + 3\sqrt{1 + 4\sqrt{1 + \dots}}}}
+$$
+
+$$
+\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\dots}}}}
+$$
+```
+
+**Latex result:**
+
+![latex](img/latex.png)
+
+**Hadamard matrix source:**
+
+```
+$$
+H = 
+\begin{bmatrix}
+1 & 1 & 1 & 1 \\
+-1 & 1 & -1 & 1 \\
+-1 & -1 & 1 & 1 \\
+1 & -1 & -1 & 1
+\end{bmatrix}
+$$
+```
+
+**Hadamard matrix result:**
+
+![hadamard](img/hadamard.png)
+
+## Part 2
 
 ### RushMeiOS
 
@@ -29,9 +63,13 @@ Branches: 11
 - linted-version
 - master
 
-Gitstats:
+**Gitstats:**
 
 ![stats](img/gstats/rushmeios.png)
+
+**Gource:**
+
+![source](img/gource/rushmeios.png)
 
 ### RPI Campus Trends Repo Data:
 
@@ -48,9 +86,13 @@ Current Branches: 2
 - master
 - flask-refractor
 
-Gitstat:
+**Gitstat:**
 
 ![stats](img/gstats/rpicoursetrends.png)
+
+**Gource:**
+
+![source](img/gource/rpicoursetrends.png)
 
 ### RPI Campus Map
 
@@ -70,9 +112,13 @@ Current branches: 5
 - dev
 - production
 
-Gitstat:
+**Gitstat:**
 
 ![stats](img/gstats/rpicampusmap.png)
+
+**Gource:**
+
+![source](img/gource/rpicampusmap.png)
 
 ### Runelite
 
@@ -84,6 +130,10 @@ Current branches:
 
 - master
 
-Gitstat:
+**Gitstat:**
 
 ![stats](img/gstats/runelite.png)
+
+**Gource:**
+
+![source](img/gource/runelite.png)
